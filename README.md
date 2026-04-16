@@ -51,7 +51,7 @@ Backend system for an online homestay booking platform.
 `Spring Boot` `Spring Security` `JPA/Hibernate` `SQL Server` `Redis` `Thymeleaf`
 
 🔗 GitHub:  
-[https://github.com/HoangHan-coder](https://github.com/HoangHan-coder/book-now)
+[https://github.com/hoanghan-dev](https://github.com/hoanghan-dev/book-now)
 
 ---
 
@@ -68,17 +68,17 @@ Developed an order management system for an e-commerce platform.
 `Java Servlet` `JSP` `SQL Server`
 
 🔗 GitHub:  
-[https://github.com/HoangHan-coder](https://github.com/HoangHan-coder/Project-PRJ301-TechZone)
+[https://github.com/hoanghan-dev](https://github.com/hoanghan-dev/Project-PRJ301-TechZone)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangHan-coder&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoanghan-dev&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangHan-coder&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanghan-dev&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=HoangHan-coder&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hoanghan-dev&theme=tokyonight)
 
 ---
 
@@ -93,7 +93,7 @@ Developed an order management system for an e-commerce platform.
 ## 📫 Contact
 
 📧 Email: **hannh.ce192048@gmail.com**  
-💻 GitHub: **github.com/HoangHan-coder**
+💻 GitHub: **github.com/hoanghan-dev**
 
 ---
 ⭐ If you like my work, feel free to follow or check out my repositories!
